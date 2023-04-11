@@ -1,0 +1,14 @@
+/* 
+
+.vox{
+    border: 2px solid black;
+    padding: 40px;
+    margin: 400px;
+} */
+.regster{
+    /* font-family: 'Overpass';font-size: 22px; */
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    display: flex;
+}

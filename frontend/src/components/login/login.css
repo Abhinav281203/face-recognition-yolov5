@@ -1,0 +1,20 @@
+/* .content{
+    /* padding-top: 13%;
+    height: 40vh;
+    justify-content: center;
+    align-items: center; */
+    /* border: 2px solid black;
+    padding: 50px;
+    margin: 20px;} */ */
+.texts{
+    align-items: center;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login{
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    display: flex;
+}

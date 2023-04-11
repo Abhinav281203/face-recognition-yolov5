@@ -1,0 +1,9 @@
+cd flask
+    (One should have the knowledge to split the data and train the YOLOv5 model. The resultant weights sould be place in static folder)
+    -python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000 (to run the model in backend)
+
+cd frontend
+    -npm start (to start frontend)
+
+cd backend
+    -node index.js (to start backend)

@@ -1,0 +1,22 @@
+{
+  "name": "login-and-register-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": " node index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "bootstrap": "^5.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.6.3",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.20",
+    "popper.js": "^1.16.1"
+  }
+}
