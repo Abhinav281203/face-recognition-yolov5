@@ -1,7 +1,7 @@
 import Login from "./components/login/login"
 import Register from "./components/register/register"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Upload from "./components/Upload";
+import Upload from "./components/upload/Upload";
 
 function App() {
   return (
