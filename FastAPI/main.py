@@ -28,7 +28,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-model = torch.hub.load('yolov5', 'custom', path='./static/best.pt', source='local', force_reload=True)
+model = torch.hub.load('yolov5', 'custom', path='./yolov5/static/best.pt', source='local', force_reload=True)
 
 @app.get('/notify/v1/health')
 def get_health():
